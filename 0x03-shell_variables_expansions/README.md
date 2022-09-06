@@ -1,1 +1,1 @@
-Create a script that creates a new global variable
+Create a script that counts the number of directories in the PATH
