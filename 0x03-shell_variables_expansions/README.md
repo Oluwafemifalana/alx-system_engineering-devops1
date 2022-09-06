@@ -1,1 +1,1 @@
-Create a script that counts the number of directories in the PATH
+Create a script that prints all possible combinations of two letters, except oo
